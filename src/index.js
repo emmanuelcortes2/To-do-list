@@ -43,7 +43,7 @@ document.body.appendChild(list());
 
 const tasks = document.getElementById('list');
 
-const input = document.getElementById('add')
+const input = document.getElementById('add');
 
 for (let i = 0; i < todo.length; i += 1) {
   const todoData = `
@@ -53,7 +53,3 @@ for (let i = 0; i < todo.length; i += 1) {
       `;
   tasks.innerHTML += todoData;
 }
-
-
-
-

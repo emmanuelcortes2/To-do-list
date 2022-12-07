@@ -24,14 +24,12 @@ ul {
   width: 95%;
   font-size: 2vw;
   padding-left: 2%;
- 
 }
 
 li {
   border-bottom: 1px solid darkgray;
   padding: 5%;
   font-size: 2.3vw;
-
 }
 
 #add {
